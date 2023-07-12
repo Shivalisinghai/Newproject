@@ -1,6 +1,6 @@
 {
   "articles": [
-    {   
+    {
       "headline": "'Further restrictions': Warning for NSW",
       "thumbnail": {
         "title": "Warning for NSW",
@@ -12,9 +12,9 @@
       "standfirst": "NSW residents have been urged to think about their movements this weekend, with the premier warning she doesn't want to have to impose further restrictions.",
       "primarySectionRouteName": "NSW & ACT"
     },
-     {       
+    {
       "headline": "Big W causes frenzy over $40 Nike sale",
-      "thumbnail": {  
+      "thumbnail": {
         "title": "Shoes",
         "width": 316,
         "height": 237,
