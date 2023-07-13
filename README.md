@@ -4,7 +4,8 @@
  a.Css folder have css file.
  b.Js folder have js file as well as a json file.
  c.One html file outside the folder.
- d.Output folder have screenshot to show the output here.
+ d.Output folder have desktop screenshot to show  desktop view.
+ e.Output folder also have mobile screenshot to show the mobile view.
 3.Inlcuded js and css file in html file.
 4.In js file using the fetch method with asyc await function.
 5.Using the get-element by id for iterate the data.
