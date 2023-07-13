@@ -7,7 +7,7 @@ async function fetchDataJSON() {
 fetchDataJSON().then(data => {
     const articleContainer = document.getElementById('article-container');
     data.articles.forEach(article => {
-        articleContainer.innerHTML += renderArticle(article);
+    articleContainer.innerHTML += renderArticle(article);
     })
 })
 
